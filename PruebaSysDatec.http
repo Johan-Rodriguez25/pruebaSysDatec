@@ -1,0 +1,6 @@
+@PruebaSysDatec_HostAddress = http://localhost:5262
+
+GET {{PruebaSysDatec_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
